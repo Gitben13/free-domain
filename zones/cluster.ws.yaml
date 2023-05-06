@@ -6,6 +6,8 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+
+ccedu: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Register ccedu.cluster.ws
 viktor: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Register viktor.cluster.ws
 private: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 oreade: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] #Register oreade.cluster.ws
